@@ -15,5 +15,5 @@ This is a summary of my projects or the projects in which I have collaborated.
 - [Forest Fires](https://github.com/pablogarciastc/ForestFires)
 
 ----
-## Linkedin
+### Linkedin
 For more information or to contact me, my [Linkedin Profile](https://www.linkedin.com/in/pablo-garc%C3%ADa-santaclara/) is available. 
