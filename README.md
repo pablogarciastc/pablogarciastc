@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi 👋 , my name is Pablo. I'm currently a Bachelor’s Degree in Telecommunication Engineering student. Based in Vigo, Spain.
+ 
 <!--
 **pablogarciastc/pablogarciastc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
