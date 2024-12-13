@@ -1,6 +1,6 @@
 # Pablo García Santaclara
 -------------
-Hi 👋 , my name is Pablo. I'm currently a PHd in Information and Comunication technologies student. Based in Vigo, Spain.
+Hi 👋 , my name is Pablo. I'm currently a Phd student in Information and Comunication technologies. Based in Vigo, Spain.
 
  ### Projects
 This is a summary of my projects or the projects in which I have collaborated.
